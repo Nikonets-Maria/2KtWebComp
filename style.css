@@ -1,0 +1,21 @@
+body {
+    display: block;
+    border: 2px solid #e23618;
+    padding: 1rem;
+    border-radius: 3%;
+  }
+.container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 3%;
+    width: 60%;
+    background-color: rgb(255, 255, 255);
+  }
+label {
+    margin-bottom: 0.5rem;
+}
+input {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    background-color: rgb(215, 207, 202);
+  }
